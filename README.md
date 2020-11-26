@@ -1,1 +1,4 @@
 # algorithm-study
+
+## C
+## Python
